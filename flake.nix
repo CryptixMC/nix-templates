@@ -13,6 +13,10 @@
         path = ./python;
         description = "Python dev shell with python3 and uv";
       };
+      fabric = {
+        path = ./fabric;
+        description = "Fabric Minecraft mod dev shell with jdk21 and gradle";
+      };
     };
   };
 }
